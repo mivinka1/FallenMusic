@@ -14,7 +14,7 @@ ujson
 psutil
 telegram
 python-telegram-bot==13.11
-git+https://github.com/joetats/youtube_search@master
-git+https://github.com/alexmercerind/youtube-search-python@main
-git+https://github.com/AnonymousR1025/yt-dl@master
+youtube_search
+youtube-search-python
+yt-dl
 
